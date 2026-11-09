@@ -942,6 +942,10 @@ Later:
 - Export a trained site as a full Laya checkpoint.
 - Unfreezing the top encoder layers, for decisions a frozen encoder cannot read.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Stuntd/)
+
 ## Contributing
 
 Questions and show and tell go to [Discussions](https://github.com/bladedevoff/stuntd/discussions),
